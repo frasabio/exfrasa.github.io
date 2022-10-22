@@ -1,3 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.rows {
+  margin-top: 20px;
+}
 .rows .my_paragraph .wave-container, .footer .my_paragraph .wave-top, .footer .my_paragraph .wave-bottom {
   margin: 0 auto;
   max-width: 100%;
